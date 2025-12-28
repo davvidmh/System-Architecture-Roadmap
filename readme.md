@@ -2,7 +2,7 @@
 
 
 
-This repository documents my progression from fundamental computer science concepts to designing scalable, high-performance distributed systems. 
+This repository documents my progression from fundamental computer science concepts to designing high-performance distributed systems. 
 
 
 
